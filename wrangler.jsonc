@@ -26,5 +26,11 @@
       "binding": "KV",
       "id": "640f2a95a3b647a9aeb48d2e5be19628" // IMPORTANT: Change this to your KV namespace ID
     }
+  ],
+  "routes": [
+    {
+      "pattern": "optfm.link/*",
+      "custom_domain": true
+    }
   ]
 }
