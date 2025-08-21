@@ -29,7 +29,7 @@
   ],
   "routes": [
     {
-      "pattern": "optfm.link/*",
+      "pattern": "optfm.link",
       "custom_domain": true
     }
   ]
